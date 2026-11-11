@@ -1,0 +1,13 @@
+{
+  "id": "/",
+  "name": "StockFlow - Gestão de Estoque",
+  "short_name": "StockFlow",
+  "description": "Aplicativo de gerenciamento de estoque",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#193047",
+  "theme_color": "#193047",
+  "icons": [{"src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}

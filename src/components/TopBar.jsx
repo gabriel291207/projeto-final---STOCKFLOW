@@ -1,0 +1,2 @@
+import { SlidersHorizontal, CircleUserRound } from "lucide-react";
+export default function TopBar({user}) { return <header className="topbar"><div><b>ESTOQUE</b><small>Painel principal</small></div><div className="top-actions"><SlidersHorizontal size={18}/><span>{user?.name || "Usuário"}</span><CircleUserRound size={21}/></div></header>; }
